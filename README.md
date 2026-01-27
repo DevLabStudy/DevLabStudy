@@ -8,27 +8,17 @@
 
 ### Support My Journey
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/sponsors/TobiMessi">
-          <img src="https://img.shields.io/badge/GitHub_Sponsor-24292e?style=for-the-badge&logo=github-sponsors&logoColor=white" width="180">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://patreon.com/TobiMessi">
-          <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="180">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://buymeacoffee.com/TobiK0">
-          <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="180">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/sponsors/TobiMessi">
+    <img src="https://img.shields.io/badge/GitHub_Sponsor-24292e?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35">
+  </a>
+  <a href="https://patreon.com/TobiMessi">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="35">
+  </a>
+  <a href="https://buymeacoffee.com/TobiK0">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35">
+  </a>
+</p>
 
 ---
 
