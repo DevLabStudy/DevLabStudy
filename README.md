@@ -17,7 +17,5 @@
 
 ![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiMessi&show_icons=true&theme=dark)
 
-![TobiMessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiMessi&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiMessi&layout=compact&theme=transparent)
 </div>
