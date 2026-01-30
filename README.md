@@ -25,7 +25,7 @@
 
 <br><br>
 
-<br><img width="600" height="600" alt="qr-code" src="https://github.com/user-attachments/assets/e4848f93-e1ae-4c8c-82e9-da7428f41a57" />
+<br><img width="300" height="300" alt="qr-code" src="https://github.com/user-attachments/assets/e4848f93-e1ae-4c8c-82e9-da7428f41a57" />
 
 <sub>Scan to support</sub>
 
