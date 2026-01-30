@@ -6,12 +6,12 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
-![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiMessi&show_icons=true&theme=dark)
+![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiMessi&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiMessi&layout=compact&theme=dark&hide_langs_below=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiMessi&layout=compact&theme=dark)
 </div>
 
 ---
