@@ -7,7 +7,7 @@
 ---
 
 ###  My Tech Stack & Environment
-**Infrastructure:** HomeLab (Asus Server / HP ProDesk) | Docker | Mint  
+**Infrastructure:** HomeLab (Asus Server / HP SFF 6300 PRO) | Docker | Mint  
 **Dev Tools:** JetBrains Student Pack (PyCharm, IntelliJ) | GitHub Premium  
 **Languages:** Python | Bash | DevOps Automation  
 
