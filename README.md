@@ -28,6 +28,6 @@
 
 ### 💰 Support My Journey
 
-<a href="https://github.com/sponsors/DevLabStudy"><img src="https://img.shields.io/badge/GitHub_Sponsor-24292e?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patreon.com/DevLabStudy"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="35"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://buymeacoffee.com/TobiK0"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"></a>
+<a href="https://github.com/sponsors/DevLabStudy"><img src="https://img.shields.io/badge/GitHub_Sponsor-24292e?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patreon.com/DevLabStudy"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="35"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="buymeacoffee.com/devlabstudy"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"></a>
 
 </div>
