@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Tobiasz%20Kajzer&fontSize=42&fontColor=ff5e00&animation=fadeIn&fontAlignY=38&desc=Technik%20IT%20|%20Homelab%20Architect%20|%20Software%20Developer&descSize=15&descColor=00d2ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Tobiasz%20Kajzer&fontSize=42&fontColor=ff5e00&animation=fadeIn&fontAlignY=38&desc=Uczeń%20Technikum%20Informatycznego%20|%20Homelab%20&%20Web%20Dev&descSize=15&descColor=00d2ff" width="100%" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Aktywny_Homelab-ff5e00?style=for-the-badge&logo=proxmox&logoColor=white" />
@@ -21,48 +21,50 @@
 
 ---
 
-### Infrastruktura & Stos Technologiczny
+### O Mnie & Środowisku Pracy
 
-Jestem uczniem drugiej klasy technikum informatycznego o specjalności technik IT. Specjalizuję się w sieciach komputerowych, wirtualizacji oraz programowaniu systemowym. Rozwijam ekosystem **DevLabStudy** (`devlabstudy.ovh`), zarządzam własną infrastrukturą serwerową i realizuję projekty programistyczne.
+Cześć! Jestem uczniem drugiej klasy technikum informatycznego. Moja pasja kręci się wokół szeroko pojętej informatyki – od sieci komputerowych i wirtualizacji, przez administrację serwerami, aż po programowanie systemowe oraz tworzenie nowoczesnych stron internetowych. 
 
-* **Homelab & Wirtualizacja:** Wielowęzłowy klaster **Proxmox VE** oparty na platformach Intel NUC, Fujitsu Futro S520 (w szafie rack 10") oraz HP Compaq Elite 8200, hostujący kontenery LXC, serwery VPN (WireGuard, Twingate) oraz Pi-hole.
-* **Infrastruktura Sieciowa:** Konfiguracja VLAN, fast roaming, MikroTik hEX gr3, przełączniki zarządzalne (Cisco, D-Link, Lanberg, KeepLink 2.5GbE) oraz automatyczne wdrażanie systemów Linux przez PXE boot.
-* **Stack Programistyczny:** Rust, Python, JavaScript, HTML5/CSS3, Monkey C (aplikacje i tarcze Garmin Connect IQ) oraz automatyzacja chmurowa (Cloudflare DNS, Supabase, GitHub Pages).
+Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w ramach którego projektuję, wdrażam i testuję różnorodne rozwiązania technologiczne. Lubię stawiać sobie ambitne wyzwania, automatyzować procesy oraz zgłębiać działanie systemów od podszewki.
+
+* **Homelab i Wirtualizacja:** Prowadzę domowe laboratorium oparte na wielowęzłowym klastrze **Proxmox VE**. Wykorzystuję do tego zróżnicowany sprzęt, taki jak Intel NUC, Fujitsu Futro S520 (zamontowany w dedykowanej szafie rack 10") oraz HP Compaq Elite 8200. W klastrze tym uruchamiam kontenery LXC, instancje Pi-hole oraz bezpieczne tunele VPN (WireGuard, Twingate).
+* **Sieci i Sprzęt:** Konfiguruję i zarządzam infrastrukturą sieciową z podziałem na VLANy, bezprzewodowym fast roamingiem oraz routerami MikroTik hEX gr3. Pracuję na przełącznikach zarządzalnych marek takich jak Cisco, D-Link, Lanberg czy KeepLink 2.5GbE. Do szybkiego wdrażania systemów Linux używam własnego serwera PXE boot.
+* **Programowanie i Narzędzia:** W moich projektach sięgam po języki takie jak Rust, Python czy JavaScript, a także HTML5/CSS3. Tworzę również oprogramowanie i tarcze dla inteligentnych zegarków Garmin przy użyciu Monkey C, dbając jednocześnie o automatyzację chmurową (Cloudflare DNS, Supabase, GitHub Pages).
 
 ---
 
-### Flagowe Projekty
+### Główne Projekty
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DevLabStudy/DevLabStudy.github.io">DevLabStudy.github.io</a></h3>
+    <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
+      <h3><a href="https://github.com/DevLabStudy/DevLabStudy.github.io">🌐 DevLabStudy.github.io</a></h3>
       <p><b>Centralny hub ekosystemu technologicznego</b></p>
-      <p>Portal główny łączący dokumentację homelabu, oferty wdrożeniowe oraz projekty powiązane. Zbudowany z myślą o najwyższej wydajności (Core Web Vitals), automatycznie wdrażany przez GitHub Pages z pełnym wsparciem Cloudflare DNS.</p>
+      <p>Główny portal internetowy spinający dokumentację homelabu, oferty wdrożeniowe oraz projekty powiązane. Strona jest zoptymalizowana pod kątem wydajności (Core Web Vitals), automatycznie wdrażana przez GitHub Pages i wspierana przez Cloudflare DNS.</p>
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>Cloudflare</code> <code>GitHub Pages</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DevLabStudy/pc-hub">pc-hub</a></h3>
+    <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
+      <h3><a href="https://github.com/DevLabStudy/pc-hub">💻 pc-hub</a></h3>
       <p><b>Platforma sprzętowa i serwisowa PC Hub</b></p>
-      <p>Dedykowany serwis internetowy i panel zarządzania dla projektu sprzętowego skupionego na składaniu, customowych buildach (od zestawów budżetowych po retro rigi), optymalizacji termicznej oraz testach wydajnościowych.</p>
+      <p>Dedykowany serwis internetowy i panel zarządzania dla projektu sprzętowego skupionego na składaniu, customowych buildach (od zestawów budżetowych po retro rigi), optymalizacji termicznej oraz profesjonalnych testach wydajności podzespołów.</p>
       <p>
         <code>HTML/JS</code> <code>Hardware Testing</code> <code>Responsive UI</code>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DevLabStudy/pulse-lang">pulse-lang</a></h3>
-      <p><b>Własny język programowania (Pulse)</b></p>
-      <p>Ambitny projekt systemowy realizowany od zera w języku <b>Rust</b>. Obejmuje projektowanie własnej gramatyki, budowę analizatora leksykalnego (lexer), drzewa składniowego (AST parser) oraz wydajnego interpretera silnika wykonawczego.</p>
+    <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
+      <h3><a href="https://github.com/DevLabStudy/pulse-lang">🦀 pulse-lang</a></h3>
+      <p><b>Autorski język programowania (Pulse)</b></p>
+      <p>Ambitny projekt systemowy realizowany od zera w języku <b>Rust</b>. Obejmuje samodzielne projektowanie gramatyki, budowę analizatora leksykalnego (lexer), drzewa składniowego (AST parser) oraz wydajnego interpretera silnika wykonawczego.</p>
       <p>
         <code>Rust</code> <code>Compilers</code> <code>AST Parsing</code> <code>Systems Programming</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DevLabStudy/WebCraft">WebCraft</a></h3>
+    <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
+      <h3><a href="https://github.com/DevLabStudy/WebCraft">⚡ WebCraft</a></h3>
       <p><b>Studio wdrożeń i opieka SaaS</b></p>
       <p>Zaawansowane środowisko i szablony wdrożeniowe dla komercyjnych stron internetowych oraz systemów opieki abonamentowej. Projekt łączy automatyzację analityki (Google Consent Mode v2), gotowe komponenty UI oraz stabilny hosting.</p>
       <p>
