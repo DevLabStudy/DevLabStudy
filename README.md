@@ -23,13 +23,13 @@
 
 ### O Mnie & Środowisku Pracy
 
-Cześć! Jestem uczniem drugiej klasy technikum informatycznego. Moja pasja kręci się wokół szeroko pojętej informatyki – od sieci komputerowych i wirtualizacji, przez administrację serwerami, aż po programowanie systemowe oraz tworzenie nowoczesnych stron internetowych. 
+Cześć! Jestem uczniem drugiej klasy technikum informatycznego w Cieszynie. Moja pasja kręci się wokół szeroko pojętej informatyki – od sieci komputerowych i wirtualizacji, przez administrację serwerami Linux, aż po programowanie systemowe oraz tworzenie nowoczesnych stron internetowych. 
 
 Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w ramach którego projektuję, wdrażam i testuję różnorodne rozwiązania technologiczne. Lubię stawiać sobie ambitne wyzwania, automatyzować procesy oraz zgłębiać działanie systemów od podszewki.
 
-* **Homelab i Wirtualizacja:** Prowadzę domowe laboratorium oparte na wielowęzłowym klastrze **Proxmox VE**. Wykorzystuję do tego zróżnicowany sprzęt, taki jak Intel NUC, Fujitsu Futro S520 (zamontowany w dedykowanej szafie rack 10") oraz HP Compaq Elite 8200. W klastrze tym uruchamiam kontenery LXC, instancje Pi-hole oraz bezpieczne tunele VPN (WireGuard, Twingate).
-* **Sieci i Sprzęt:** Konfiguruję i zarządzam infrastrukturą sieciową z podziałem na VLANy, bezprzewodowym fast roamingiem oraz routerami MikroTik hEX gr3. Pracuję na przełącznikach zarządzalnych marek takich jak Cisco, D-Link, Lanberg czy KeepLink 2.5GbE. Do szybkiego wdrażania systemów Linux używam własnego serwera PXE boot.
-* **Programowanie i Narzędzia:** W moich projektach sięgam po języki takie jak Rust, Python czy JavaScript, a także HTML5/CSS3. Tworzę również oprogramowanie i tarcze dla inteligentnych zegarków Garmin przy użyciu Monkey C, dbając jednocześnie o automatyzację chmurową (Cloudflare DNS, Supabase, GitHub Pages).
+- **Homelab i Wirtualizacja:** Prowadzę domowe laboratorium oparte na wielowęzłowym klastrze **Proxmox VE**. Wykorzystuję do tego zróżnicowany sprzęt, taki jak Intel NUC, Fujitsu Futro S520 (zamontowany w dedykowanej szafie rack 10") oraz HP Compaq Elite 8200. W klastrze tym uruchamiam kontenery LXC, instancje Pi-hole oraz bezpieczne tunele VPN (WireGuard, Twingate).
+- **Sieci i Sprzęt:** Konfiguruję i zarządzam infrastrukturą sieciową z podziałem na VLANy, bezprzewodowym fast roamingiem oraz routerami MikroTik hEX gr3. Pracuję na przełącznikach zarządzalnych marek takich jak Cisco, D-Link, Lanberg czy KeepLink 2.5GbE. Do szybkiego wdrażania systemów Linux używam własnego serwera PXE boot.
+- **Programowanie i Narzędzia:** W moich projektach sięgam po języki takie jak Rust, Python czy JavaScript, a także HTML5/CSS3. Tworzę również oprogramowanie i tarcze dla inteligentnych zegarków Garmin przy użyciu Monkey C, dbając jednocześnie o automatyzację chmurową (Cloudflare DNS, Supabase, GitHub Pages).
 
 ---
 
@@ -38,7 +38,7 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3><a href="https://github.com/DevLabStudy/DevLabStudy.github.io">🌐 DevLabStudy.github.io</a></h3>
+      <h3>🌐 DevLabStudy.github.io <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne / Hub</span></h3>
       <p><b>Centralny hub ekosystemu technologicznego</b></p>
       <p>Główny portal internetowy spinający dokumentację homelabu, oferty wdrożeniowe oraz projekty powiązane. Strona jest zoptymalizowana pod kątem wydajności (Core Web Vitals), automatycznie wdrażana przez GitHub Pages i wspierana przez Cloudflare DNS.</p>
       <p>
@@ -46,7 +46,7 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3><a href="https://github.com/DevLabStudy/pc-hub">💻 pc-hub</a></h3>
+      <h3>💻 pc-hub <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne / Serwis</span></h3>
       <p><b>Platforma sprzętowa i serwisowa PC Hub</b></p>
       <p>Dedykowany serwis internetowy i panel zarządzania dla projektu sprzętowego skupionego na składaniu, customowych buildach (od zestawów budżetowych po retro rigi), optymalizacji termicznej oraz profesjonalnych testach wydajności podzespołów.</p>
       <p>
@@ -56,7 +56,7 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3><a href="https://github.com/DevLabStudy/pulse-lang">🦀 pulse-lang</a></h3>
+      <h3><a href="https://github.com/DevLabStudy/pulse-lang">🦀 pulse-lang</a> <span style="font-size:0.65rem; color:#00d2ff; border:1px solid rgba(0,210,255,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Publiczne / Open Source</span></h3>
       <p><b>Autorski język programowania (Pulse)</b></p>
       <p>Ambitny projekt systemowy realizowany od zera w języku <b>Rust</b>. Obejmuje samodzielne projektowanie gramatyki, budowę analizatora leksykalnego (lexer), drzewa składniowego (AST parser) oraz wydajnego interpretera silnika wykonawczego.</p>
       <p>
@@ -64,7 +64,7 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3><a href="https://github.com/DevLabStudy/WebCraft">⚡ WebCraft</a></h3>
+      <h3>⚡ WebCraft <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne / SaaS</span></h3>
       <p><b>Studio wdrożeń i opieka SaaS</b></p>
       <p>Zaawansowane środowisko i szablony wdrożeniowe dla komercyjnych stron internetowych oraz systemów opieki abonamentowej. Projekt łączy automatyzację analityki (Google Consent Mode v2), gotowe komponenty UI oraz stabilny hosting.</p>
       <p>
@@ -73,6 +73,31 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
     </td>
   </tr>
 </table>
+
+---
+
+### Stos Technologiczny & Narzędzia
+
+W moich codziennych projektach i pracy z infrastrukturą wykorzystuję szeroki wachlarz technologii:
+
+* **Języki Programowania i Skryptowe:** `Rust`, `Python`, `JavaScript`, `HTML5`, `CSS3`, `Monkey C` (Garmin Connect IQ).
+* **Systemy Operacyjne i Serwery:** `Debian`, `Arch Linux`, `Fedora`, `Zorin OS`, `Apache2`, `Nginx`.
+* **Wirtualizacja i Konteneryzacja:** `Proxmox VE`, `LXC`, `Docker`, `Portainer`.
+* **Sieci i Bezpieczeństwo:** `MikroTik RouterOS`, `VLAN`, `WireGuard VPN`, `Twingate`, `Pi-hole` (blokowanie reklam na poziomie DNS).
+* **Cloud & DevOps:** `Cloudflare DNS`, `Supabase`, `GitHub Pages`, automatyzacja skryptów CLI (`dinstall`).
+
+---
+
+### Infrastruktura Sprzętowa (Homelab)
+
+<div style="background: rgba(10, 15, 25, 0.6); border: 1px solid rgba(0, 210, 255, 0.15); padding: 20px; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.85rem; line-height: 1.6;">
+  <p><b>Serce mojego laboratorium (DevLabStudy) to fizyczna infrastruktura rozproszona:</b></p>
+  <ul>
+    <li><b>Węzły Proxmox VE:</b> Intel NUC, Fujitsu Futro S520 (w szafie rack 10") oraz HP Compaq Elite 8200 pracujące jako zintegrowany klaster testowy.</li>
+    <li><b>Sieć i Przełączniki:</b> Router MikroTik hEX gr3 zarządzający ruchem z przełącznikami Cisco Catalyst, Lanberg RSGE-24P-2GE-2S-250 oraz KeepLink 2.5GbE dla szybkich transferów NAS.</li>
+    <li><b>Stanowisko robocze:</b> Desktop wyposażony w procesor AMD Ryzen 5 3600 oraz kartę graficzną AMD Radeon RX 7600, służący do montażu wideo, programowania i testów wydajnościowych.</li>
+  </ul>
+</div>
 
 ---
 
