@@ -38,16 +38,16 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3>DevLabStudy Hub <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
-      <p><b><a href="https://devlabstudy.ovh">devlabstudy.ovh</a></b></p>
-      <p>Centralny portal internetowy spinający dokumentację homelabu, oferty wdrożeniowe oraz projekty powiązane. Strona jest zoptymalizowana pod kątem wydajności (Core Web Vitals), automatycznie wdrażana przez GitHub Pages i wspierana przez Cloudflare DNS.</p>
+      <h3><a href="https://devlabstudy.ovh">DevLabStudy Hub</a> <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
+      <p><b>Centralny hub ekosystemu technologicznego</b></p>
+      <p>Główny portal internetowy spinający dokumentację homelabu, oferty wdrożeniowe oraz projekty powiązane. Strona jest zoptymalizowana pod kątem wydajności (Core Web Vitals), automatycznie wdrażana przez GitHub Pages i wspierana przez Cloudflare DNS.</p>
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>Cloudflare</code> <code>GitHub Pages</code>
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3>PC Hub <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
-      <p><b><a href="https://pc-hub.devlabstudy.ovh">pc-hub.devlabstudy.ovh</a></b></p>
+      <h3><a href="https://pc-hub.devlabstudy.ovh">PC Hub</a> <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
+      <p><b>Platforma sprzętowa i serwisowa PC Hub</b></p>
       <p>Dedykowany serwis internetowy i panel zarządzania dla projektu sprzętowego skupionego na składaniu, customowych buildach (od zestawów budżetowych po retro rigi), optymalizacji termicznej oraz profesjonalnych testach wydajności podzespołów.</p>
       <p>
         <code>HTML/JS</code> <code>Hardware Testing</code> <code>Responsive UI</code>
@@ -56,16 +56,16 @@ Na co dzień rozwijam autorski ekosystem **DevLabStudy** (`devlabstudy.ovh`), w 
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3>Pulse Lang <span style="font-size:0.65rem; color:#00d2ff; border:1px solid rgba(0,210,255,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Publiczne / Open Source</span></h3>
-      <p><b><a href="https://github.com/DevLabStudy/pulse-lang">github.com/DevLabStudy/pulse-lang</a></b></p>
+      <h3><a href="https://github.com/DevLabStudy/pulse-lang">Pulse Lang</a> <span style="font-size:0.65rem; color:#00d2ff; border:1px solid rgba(0,210,255,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Publiczne / Open Source</span></h3>
+      <p><b>Autorski język programowania (Pulse)</b></p>
       <p>Ambitny projekt systemowy realizowany od zera w języku <b>Rust</b>. Obejmuje samodzielne projektowanie gramatyki, budowę analizatora leksykalnego (lexer), drzewa składniowego (AST parser) oraz wydajnego interpretera silnika wykonawczego.</p>
       <p>
         <code>Rust</code> <code>Compilers</code> <code>AST Parsing</code> <code>Systems Programming</code>
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; background: rgba(8, 12, 20, 0.6); border-radius: 8px;">
-      <h3>WebCraft <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
-      <p><b><a href="https://webcraft.devlabstudy.ovh">webcraft.devlabstudy.ovh</a></b></p>
+      <h3><a href="https://webcraft.devlabstudy.ovh">WebCraft</a> <span style="font-size:0.65rem; color:#8b9bb4; border:1px solid rgba(139,155,180,0.3); padding:2px 6px; border-radius:4px; vertical-align:middle;">Prywatne</span></h3>
+      <p><b>Studio wdrożeń i opieka SaaS</b></p>
       <p>Zaawansowane środowisko i szablony wdrożeniowe dla komercyjnych stron internetowych oraz systemów opieki abonamentowej. Projekt łączy automatyzację analityki (Google Consent Mode v2), gotowe komponenty UI oraz stabilny hosting.</p>
       <p>
         <code>HTML/CSS</code> <code>JavaScript</code> <code>Analytics API</code> <code>SaaS Architecture</code>
